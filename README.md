@@ -1,2 +1,2 @@
 # odin-recipes
-develop website and deeply understand how website works
+This website is all about the recipe of your next favorite food. The main purpose of creating this website is to deeply understand how website works and learn more by enhancing my skills and to upgrade my knowledge and share to others with receptive mind and a will to thrive more.
